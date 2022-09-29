@@ -1,1 +1,1 @@
-# helm-helloworld
+Sample helloworld chart
